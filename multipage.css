@@ -1,0 +1,41 @@
+
+
+.everything{
+	width: 1230px;
+	margin: auto;
+}
+
+
+h1{
+	color:  black;
+	font-family: Courier;
+}
+
+a{
+	color:  #516111;
+	font-family: courier new;
+	font-size: 25px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+
+
+.flex-container1 {
+  display: flex;
+  justify-content: space-around;
+  align-content: flex-start;
+  align-items: center;
+  padding-top: 50px;
+}
+
+
+.flex-container2 {
+	padding-top: 100px;
+	padding-bottom: 100px;
+  display: flex;
+  justify-content: space-around;
+	flex-direction: row;
+	height: 300px;
+
+}

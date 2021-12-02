@@ -1,0 +1,54 @@
+
+
+
+.everything{
+	width: 1230px;
+	margin: auto;
+}
+
+
+h1{
+	color:  #516111;
+	font-family: Courier;
+}
+
+
+a{
+	color:  #516111;
+	font-family: courier new;
+	font-size: 25px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+h2{
+	color:   #516111;
+	font-family: courier;
+	font-size: 20px;
+}
+
+.group1{
+	float: left;
+	padding-top: 50px;
+}
+
+.group2{
+	float: right;
+	padding-top: 50px;
+
+}
+
+.photo2{
+	padding-top: 50px;
+}
+
+.photo4{
+	padding-top: 50px;
+}
+
+
+
+.sticky-div {
+ position: sticky;
+ top: 5000px;
+}

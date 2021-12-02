@@ -1,0 +1,55 @@
+
+.everything{
+	width: 1230px;
+	margin: auto;
+}
+
+
+
+h1{
+	color:    #516111;
+	font-family: Courier;
+}
+
+h3{
+	color:   #516111;
+	font-family: Courier;
+}
+
+
+a{
+	color:  #516111;
+	font-family: Courier new;
+	font-size: 25px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+
+.group1{
+	float: left;
+	padding-top: 50px;
+	width: 550px;
+	color:  #516111;
+	font-family: Courier new;
+}
+
+.group2{
+	float: right;
+	padding-top: 50px;
+	width: 550px;
+	color:  #516111;
+	font-family: Courier new;
+
+}
+
+.photo2{
+	padding-top: 50px;
+	width: 550px;
+}
+
+.photo4{
+	padding-top: 50px;
+	width: 550px;
+
+}
